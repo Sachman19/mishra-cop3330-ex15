@@ -2,7 +2,6 @@
  *  UCF COP3330 Summer 2021 Assignment 15 Solution
  *  Copyright 2021 Sachin Mishra
  */
-
 import java.util.Scanner;
 
 public class Main {
